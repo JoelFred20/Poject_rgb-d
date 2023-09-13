@@ -1,4 +1,4 @@
-To navigate a robot with a rgb-d sensor and a voxel layer for obstacle detection
+## To navigate a robot with a rgb-d sensor and a voxel layer for obstacle detection
 
 ## Cloning the repo
 From home directory create /catkin_ws/src folder and run the following command

@@ -51,7 +51,7 @@ Open a new terminal to run commands for the robot
 cd ~/catkin_ws
 source devel/setup.bash
 ```
-To run the main node run this command
+To run the obstacle detection node run this command
 ```
 rosrun tutorial my_publisher
 ```
@@ -61,7 +61,8 @@ To send a command to the left arm
 rostopic pub /left_arm_controller/command std_msgs/Float64 "data: 1.0"
 ```
 
-To see the ROS node tree run this command
+To see the sensor data
 ```
-rqt_graph
+rqt
 ```
+    

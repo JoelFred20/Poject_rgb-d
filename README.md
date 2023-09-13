@@ -1,11 +1,4 @@
-# Winter Break Tutorials
-
-- Slides can be found [here](https://docs.google.com/presentation/d/13XCDx3GYOWQLYuZl6OiorKB5LQHKp4tY2wDdE2C2mO4/edit#slide=id.p).
-- The urdf portion is based on this [ROS tutorial](https://wiki.ros.org/urdf/Tutorials/Building%20a%20Visual%20Robot%20Model%20with%20URDF%20from%20Scratch)
-- The publisher portion is based on this [ROS tutorial](https://wiki.ros.org/ROS/Tutorials/WritingPublisherSubscriber%28c%2B%2B%29)
-
-## Prerequisites
-- have ubuntu and ROS installed
+To navigate a robot with a rgb-d sensor and a voxel layer for obstacle detection
 
 ## Cloning the repo
 From home directory create /catkin_ws/src folder and run the following command
